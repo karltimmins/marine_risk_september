@@ -37,19 +37,23 @@ Step-by-step instructions on how to set up the project locally.
 
 4. Set up GCP enviornment variables to connect to GCP.
 
-5. Run the script 
-    '''python
+5. Run the script
+
+    ```python
     python3 embeddings_gcp_2.py 
-    '''
+    ```
+
     to output embeddings for the 'training_data.json' file.
 
 5. To deploy a Streamlit frontend connected to a model run script
-    '''python
+    
+    ```python
     python3 streamlit_gcp.py
-    '''
+    ```
 
 5. To deploy a model which can respond to the 'training_data.json', run the script 
-    '''python
+    
+    ```python
     python3 vertex_api.py
-    '''
+    ```
 
