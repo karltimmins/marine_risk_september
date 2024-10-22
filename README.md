@@ -22,16 +22,16 @@ Step-by-step instructions on how to set up the project locally.
    git clone https://github.com/karltimmins/marine_risk_september 
    ```
 
-2. Install the dependencies - pip install
+2. Install the dependencies
 
-```pip install -r requirements.txt
-```
+  ```pip install -r requirements.txt
+  ```
 
 3. Set up virtual enviornment (optional) - venv
 
-```python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`'
-```
+    ```python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
 
 4. Set up GCP enviornment variables to connect to GCP.
 
