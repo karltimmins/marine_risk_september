@@ -18,15 +18,15 @@ A project to improve risk assessment in marine traffic, using Genrative AI.
 Step-by-step instructions on how to set up the project locally.
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/karltimmins/marine_risk_september 
-   ```
+    ```bash
+    git clone https://github.com/karltimmins/marine_risk_september 
+    ```
 
 2. Install the dependencies
 
-  ```python
-  pip install -r requirements.txt
-  ```
+    ```python
+    pip install -r requirements.txt
+    ```
 
 3. Set up virtual enviornment (optional) - venv
 
