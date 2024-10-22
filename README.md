@@ -24,7 +24,8 @@ Step-by-step instructions on how to set up the project locally.
 
 2. Install the dependencies
 
-  ```pip install -r requirements.txt
+  ```python
+  pip install -r requirements.txt
   ```
 
 3. Set up virtual enviornment (optional) - venv
